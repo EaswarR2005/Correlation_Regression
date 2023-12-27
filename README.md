@@ -24,6 +24,17 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
-# Result
+# Output :
 
-# Output 
+25 28 32 31 36 29 38 34 32     
+43 46 49 36 31 32 30 33 39   
+The Correlation coefficient is -0.597   
+The Regression line Y on X is : : : y = 37.667 +  -1.031 (x-31.667)  
+
+<matplotlib.legend. Legend at 0x16870d1ee50>
+![Screenshot 2023-12-27 221801](https://github.com/EaswarR2005/Correlation_Regression/assets/146931525/336d13ef-b8a8-40a5-b63c-0f7199a3ca05)
+
+
+# Result :
+
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated
